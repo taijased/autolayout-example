@@ -13,6 +13,8 @@
 		8A2757D4225DEBD400520B2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A2757D2225DEBD400520B2B /* LaunchScreen.storyboard */; };
 		8A2757DC225DEFB500520B2B /* FirstUIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2757DB225DEFB500520B2B /* FirstUIViewController.swift */; };
 		8A2757DE225DF30F00520B2B /* FirstProgViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2757DD225DF30F00520B2B /* FirstProgViewController.swift */; };
+		8A2757E0225E02A300520B2B /* SecondUIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2757DF225E02A300520B2B /* SecondUIViewController.swift */; };
+		8A2757E2225E077300520B2B /* SecondProgViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2757E1225E077300520B2B /* SecondProgViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		8A2757D5225DEBD400520B2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8A2757DB225DEFB500520B2B /* FirstUIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUIViewController.swift; sourceTree = "<group>"; };
 		8A2757DD225DF30F00520B2B /* FirstProgViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstProgViewController.swift; sourceTree = "<group>"; };
+		8A2757DF225E02A300520B2B /* SecondUIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondUIViewController.swift; sourceTree = "<group>"; };
+		8A2757E1225E077300520B2B /* SecondProgViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondProgViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				8A2757C9225DEBD200520B2B /* AppDelegate.swift */,
 				8A2757DB225DEFB500520B2B /* FirstUIViewController.swift */,
 				8A2757DD225DF30F00520B2B /* FirstProgViewController.swift */,
+				8A2757DF225E02A300520B2B /* SecondUIViewController.swift */,
+				8A2757E1225E077300520B2B /* SecondProgViewController.swift */,
 				8A2757CD225DEBD200520B2B /* Main.storyboard */,
 				8A2757D0225DEBD400520B2B /* Assets.xcassets */,
 				8A2757D2225DEBD400520B2B /* LaunchScreen.storyboard */,
@@ -138,8 +144,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A2757E0225E02A300520B2B /* SecondUIViewController.swift in Sources */,
 				8A2757CA225DEBD200520B2B /* AppDelegate.swift in Sources */,
 				8A2757DC225DEFB500520B2B /* FirstUIViewController.swift in Sources */,
+				8A2757E2225E077300520B2B /* SecondProgViewController.swift in Sources */,
 				8A2757DE225DF30F00520B2B /* FirstProgViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
