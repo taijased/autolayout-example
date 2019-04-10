@@ -118,7 +118,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nXo-e0-lMt" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1780" y="-212"/>
+            <point key="canvasLocation" x="1780" y="727"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="iKA-yg-h8A">
@@ -229,7 +229,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="M3n-3y-nqM" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2719" y="1106"/>
+            <point key="canvasLocation" x="2748" y="1098"/>
         </scene>
         <!--SecondProg-->
         <scene sceneID="Cuj-k8-Tyz">
@@ -246,7 +246,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Scf-5u-j6p" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2719" y="1813"/>
+            <point key="canvasLocation" x="2748" y="1811"/>
         </scene>
         <!--Prog-->
         <scene sceneID="ltH-s6-7jI">
@@ -263,7 +263,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5cf-vh-i6D" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1487" y="2129"/>
+            <point key="canvasLocation" x="3722" y="2139"/>
         </scene>
         <!--FirstProg-->
         <scene sceneID="6Wq-y1-O38">
@@ -280,7 +280,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9TJ-Mx-Mwv" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1780" y="576"/>
+            <point key="canvasLocation" x="1780" y="1442"/>
         </scene>
     </scenes>
 </document>
